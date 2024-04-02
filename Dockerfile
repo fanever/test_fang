@@ -1,2 +1,2 @@
-FROM gcr.io/kaniko-project/executor:v1.22.0-debug
+FROM gcr.io/kaniko-project/executor:v1.21.1
 MAINTAINER fanever
