@@ -1,2 +1,2 @@
-FROM docker.io/flannel/flannel:v0.23.0
+FROM docker.io/flannel/flannel-cni-plugin:v1.2.0
 MAINTAINER fanever
