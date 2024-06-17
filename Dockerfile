@@ -1,2 +1,2 @@
-FROM docker.io/gitlab/gitlab-ce:16.7.4-ce.0
+FROM docker.io/flannel/flannel:v0.23.0
 MAINTAINER fanever
