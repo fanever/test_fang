@@ -1,2 +1,2 @@
-FROM docker.io/flannel/flannel-cni-plugin:v1.2.0
+FROM  harryliu888/cosyvoice
 MAINTAINER fanever
