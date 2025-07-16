@@ -1,2 +1,2 @@
-FROM  atlassian/jira-software:9.12.5
+FROM  node:18.14.2
 MAINTAINER fanever
