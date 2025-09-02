@@ -1,2 +1,2 @@
-FROM mysql:8.4
+FROM mysql:8.0.0
 MAINTAINER fanever
