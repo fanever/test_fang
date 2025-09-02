@@ -1,2 +1,2 @@
-FROM  node:18.14.2
+FROM mysql:8.4
 MAINTAINER fanever
