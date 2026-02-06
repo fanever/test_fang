@@ -1,2 +1,2 @@
-FROM mysql:8.0.0
+FROM nginx:1.18.0
 MAINTAINER fanever
